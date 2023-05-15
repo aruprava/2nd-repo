@@ -1,5 +1,3 @@
 <<<<<<< HEAD
 Hi guys
-=======
-zeilotech institute
->>>>>>> master
+dummy change
